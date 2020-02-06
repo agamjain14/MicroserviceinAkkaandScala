@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="csClientApi [file:/C:/Users/A674634/Desktop/Scala/playProjects/cs/]" external.linked.project.path="$MODULE_DIR$/../../cs-client-api" external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../cs-client-api/target/scala-2.12/classes" />
+    <output-test url="file://$MODULE_DIR$/../../cs-client-api/target/scala-2.12/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../cs-client-api">
+      <sourceFolder url="file://$MODULE_DIR$/../../cs-client-api/target/scala-2.12/src_managed/main" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../cs-client-api/target/scala-2.12/src_managed/test" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../cs-client-api/src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../cs-client-api/src/test/scala" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../cs-client-api/src/main/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../cs-client-api/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="csCommon" exported="" />
+    <orderEntry type="library" name="sbt: org.typelevel:macro-compat_2.12:1.1.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.iheart:ficus_2.12:1.3.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang.modules:scala-parser-combinators_2.12:1.1.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.reactivestreams:reactive-streams:1.0.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe.akka:akka-stream_2.12:2.5.26:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe.akka:akka-protobuf_2.12:2.5.26:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe:ssl-config-core_2.12:0.3.8:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.slf4j:slf4j-api:1.7.25:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-reflect:2.12.7:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe.scala-logging:scala-logging_2.12:3.9.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.12.7:jar" level="project" />
+    <orderEntry type="library" name="sbt: ch.qos.logback:logback-classic:1.1.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: ch.qos.logback:logback-core:1.1.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe:config:1.3.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe.akka:akka-actor_2.12:2.5.26:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang.modules:scala-java8-compat_2.12:0.8.0:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scala-lang.modules:scala-xml_2.12:1.1.0:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalactic:scalactic_2.12:3.0.7:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest_2.12:3.0.7:jar" level="project" />
+    <orderEntry type="module" module-name="csCoreServices" exported="" />
+    <orderEntry type="library" name="sbt: com.github.jnr:jffi:1.2.16:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.jnr:jffi:1.2.16:native:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.jnr:jnr-constants:0.9.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.jnr:jnr-ffi:2.1.7:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.jnr:jnr-x86asm:1.0.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe.akka:akka-cluster-metrics_2.12:2.5.26:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe.akka:akka-cluster-sharding_2.12:2.5.26:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe.akka:akka-cluster-tools_2.12:2.5.26:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe.akka:akka-cluster_2.12:2.5.26:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe.akka:akka-coordination_2.12:2.5.26:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe.akka:akka-distributed-data_2.12:2.5.26:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe.akka:akka-multi-node-testkit_2.12:2.5.26:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe.akka:akka-persistence_2.12:2.5.26:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe.akka:akka-remote_2.12:2.5.26:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe.akka:akka-testkit_2.12:2.5.26:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.aeron:aeron-client:1.15.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.aeron:aeron-driver:1.15.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty:3.10.6.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.agrona:agrona:0.9.31:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.lmdbjava:lmdbjava:0.6.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.ow2.asm:asm:5.0.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.ow2.asm:asm-analysis:5.0.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.ow2.asm:asm-commons:5.0.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.ow2.asm:asm-tree:5.0.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.ow2.asm:asm-util:5.0.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.spray:spray-json_2.12:1.3.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.commons:commons-lang3:3.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe.akka:akka-http-core_2.12:10.0.8:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe.akka:akka-http-spray-json_2.12:10.0.8:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe.akka:akka-http_2.12:10.0.8:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe.akka:akka-parsing_2.12:10.0.8:jar" level="project" />
+  </component>
+</module>

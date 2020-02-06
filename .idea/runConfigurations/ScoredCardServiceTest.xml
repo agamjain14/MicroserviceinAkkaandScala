@@ -1,0 +1,20 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ScoredCardServiceTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+    <module name="csCoreServices" />
+    <setting name="path" value="net.cs.core.services.ScoredCardServiceTest" />
+    <setting name="vmparams" value="" />
+    <setting name="params" value="" />
+    <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+    <setting name="searchForTest" value="Across module dependencies" />
+    <setting name="showProgressMessages" value="true" />
+    <setting name="useSbt" value="false" />
+    <setting name="useUiWithSbt" value="false" />
+    <setting name="jrePath" value="" />
+    <envs />
+    <setting name="testKind" value="Class" />
+    <setting name="path" value="net.cs.core.services.ScoredCardServiceTest" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
